@@ -1,45 +1,15 @@
-Perfect 👍 Let’s refine the **GitHub-style README.md** with **Python virtual environment setup** and dependency installation instructions.
-
-Here’s the updated version:
-
----
-
-```markdown
 # 🧠 Smart Attendance System  
 
-A **Face Recognition based Smart Attendance System** built with **React (Vite)** for the frontend, **Node.js** for the backend, and **Python** for face detection & recognition.  
-
----
-
-## 📂 Project Structure  
-
-```
-
-Smart\_Attendance\_System/
-│
-├── frontend/
-│   └── facefrontend/       # React (Vite) frontend
-│
-├── python-face-api-2025.../
-│   └── faces/              # Face recognition (Python)
-│       ├── enroll.py       # Enroll new faces
-│       ├── face.py
-│       └── recognize\_api.py # Recognition API
-│
-└── server/                 # Node.js backend
-├── server.js
-└── package.json
-
-````
+## A Face Recognition based Smart Attendance System** built with React (Vite) for the frontend, Node.js for the backend, and Python for face detection & recognition.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Frontend**: React + Vite  
-- **Backend**: Node.js + Express  
-- **Face Recognition API**: Python (Flask, OpenCV, face-recognition)  
-- **Database**: (to be integrated)  
+- Frontend: React + Vite  
+- Backend: Node.js + Express  
+- Face Recognition API: Python (Flask, OpenCV, face-recognition)  
+- Database: (to be integrated)  
 
 ---
 
@@ -145,7 +115,5 @@ Enrollment adds new users to the recognition system.
 
 ✨ You’re now ready to run the **Smart Attendance System**! 🚀
 
-```
-
----
+### Written by Utkarsh Pandey
 
